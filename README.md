@@ -8,10 +8,10 @@
 * **Interests:** Network Security, System Architecture, Software Development, Cryptocurrency/Asset Management, MMORPG Optimization 
 
 ## ⚙️ Hardware & Home Lab Infrastructure
-* **Primary Mobile Device:** Motorola Razr (2024) / Android OS
+* **Primary Mobile Device:** Motorola Razr (2024) / Android 16 OS
 * **Mobile Test Environment:** Amazon Fire HD 8 (12th Gen, 2022) — *Modified with side-loaded Google Play Store via APK injection.*
-* **Primary Workstation:** Dell Inspiron 3520 / Windows 11
-* **Lab Hardware:** HP Desktop PC [Model Pending] — *Currently undergoing a full OS rebuild and registry troubleshoot.*
+* **Primary Workstation:** Dell Inspiron 15 3520 / Windows 11
+* **Lab Hardware:** HP Compaq Elite 8300 / Windows 10
 * **Bio-Regulation Hardware:** Custom offline tactile node (Designation: SWITCH / MX Brown specification)
 
 ## 🛡️ Network Security & Routing Architecture
